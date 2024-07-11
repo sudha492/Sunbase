@@ -1,0 +1,166 @@
+body {
+	background: url("image.jpg") no-repeat;
+	background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+   }
+
+header .home-button {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+header .home-button:hover {
+    background-color: #2980b9;
+    color: #ecf0f1;
+}
+
+header, footer {
+    background-color:black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
+header {
+    top: 0;
+}
+
+footer {
+    bottom: 0;
+}
+
+header h1, footer p {
+    margin: 0;
+    color: white; 
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 30px 50px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 100px; 
+    margin-bottom: 60px; 
+}
+
+h1 {
+color:rgb(192, 192, 192);   
+    margin-bottom: 30px;
+    font-size: 2.5em;
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box {
+    background-color: #3498db;
+    color: white;
+    margin: 10px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1.1em;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    flex: 1 1 200px;
+}
+
+.box:hover {
+    background-color: #2980b9;
+    transform: scale(1.05);
+}
+
+.box a {
+    text-decoration: none;
+    color: white;
+}
+
+form {
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form input[type="text"], form input[type="number"], form select {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form input[type="submit"] {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form input[type="submit"]:hover {
+    background-color: #2980b9;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ecf0f1;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+}
+
+td {
+    background-color: #ffffff;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.message {
+            color: white;
+                    }
