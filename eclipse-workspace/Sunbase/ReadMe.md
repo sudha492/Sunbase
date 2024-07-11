@@ -24,7 +24,7 @@ Sunbase PROJECT:
             CREATE TABLE students (
                 id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
                 name VARCHAR(50),
-                email VARCHAR(50),
+                email VARCHAR(50) UNIQUE,
                 age INT
                 );      
 
