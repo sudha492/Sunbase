@@ -29,8 +29,7 @@ Sunbase PROJECT:
                 );      
 
     Project Setup
-        1. Clone the repository:
-            git clone <your-github-repo-link>
+        1. Clone the repository
 
         2. Open the project in your IDE.
 
