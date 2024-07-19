@@ -143,7 +143,8 @@ Here are some screenshots of the project:
 ![Screenshot 2024-07-19 151448](https://github.com/user-attachments/assets/a2d79dd9-d4b0-4dcd-85c4-97c761f69b60)
 
 ## add.jsp
-![Screenshot 2024-07-19 151448](https://github.com/user-attachments/assets/f6a63a6f-2ec0-4be3-aef6-0e85bf6ee83c)
+![Screenshot 2024-07-19 151448](https://github.com/user-attachments/assets/45129c57-12ba-4507-a9ac-5fe1c93cd61f)
+
 
 ## search.jsp
 ![Screenshot 2024-07-19 151503](https://github.com/user-attachments/assets/44111745-2938-454f-99b0-262d71420673)
