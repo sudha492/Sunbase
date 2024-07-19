@@ -7,6 +7,9 @@
 <meta charset="UTF-8">
 <title>Display Students</title>
 <link rel="stylesheet" href="web1.css">
+<style>
+td{
+color:black;}</style>
 <script>
 function confirmDelete(studentId) {
     if (confirm("Are you sure you want to delete this student?")) {
