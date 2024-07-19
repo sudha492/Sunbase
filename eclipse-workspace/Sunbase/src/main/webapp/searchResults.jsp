@@ -7,6 +7,9 @@
 <meta charset="UTF-8">
 <title>Search Results</title>
 <link rel="stylesheet" href="web1.css">
+<style>
+td{
+color:black;}</style>
 </head>
 <body>
     <header>
