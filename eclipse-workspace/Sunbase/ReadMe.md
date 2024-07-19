@@ -140,22 +140,26 @@ src/
 Here are some screenshots of the project:
 
 ## index.jsp
-![Screenshot 2024-07-19 151431](https://github.com/user-attachments/assets/25af170a-74e4-4078-b7b2-8a47ce466744)
+![Screenshot 2024-07-19 151448](https://github.com/user-attachments/assets/a2d79dd9-d4b0-4dcd-85c4-97c761f69b60)
 
 ## add.jsp
 ![Screenshot 2024-07-19 151448](https://github.com/user-attachments/assets/f6a63a6f-2ec0-4be3-aef6-0e85bf6ee83c)
 
 ## search.jsp
-![Screenshot 2024-07-19 151503](https://github.com/user-attachments/assets/b85a4ded-a618-4f7b-a6eb-b8d817ff0574)
+![Screenshot 2024-07-19 151503](https://github.com/user-attachments/assets/44111745-2938-454f-99b0-262d71420673)
+
 
 ## displayStudents.jsp
-![Screenshot 2024-07-19 151517](https://github.com/user-attachments/assets/4b6cef61-4967-4d0f-beb5-dd610568828c)
+![Screenshot 2024-07-19 151517](https://github.com/user-attachments/assets/3844d105-45b0-4203-9cdd-67a9359f8e5f)
+
 
 ## searchResults.jsp
-![Screenshot 2024-07-19 160556](https://github.com/user-attachments/assets/8c82ba29-aed0-453e-bdd9-bc21d29add56)
+![Screenshot 2024-07-19 160556](https://github.com/user-attachments/assets/8e3f0954-6210-476d-86e1-01380992e297)
+
 
 ## UpdateStudentDetails.jsp
-![Screenshot 2024-07-19 160618](https://github.com/user-attachments/assets/7fc39f94-1648-4ae0-b9f8-1a4755c9c3af)
+![Screenshot 2024-07-19 160618](https://github.com/user-attachments/assets/22f3877d-a4bf-4da5-b7e4-0c0718a5c717)
+
 
 
 ## Contact
